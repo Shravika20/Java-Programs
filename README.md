@@ -23,6 +23,14 @@ This repository contains Java programs and coding exercises that help me strengt
 - Addition of Two Numbers
 - Simple Calculator
 - Data Types Demo
+### Arrays
+- Array Sum
+- Largest Element in Array
+- Reverse Array
+### Strings
+- Reverse String
+- Palindrome String
+- Count Vowels in a String
 ### Control Statements
 - If-Else Statement
 - Switch Statement
