@@ -31,6 +31,7 @@ This repository contains Java programs and coding exercises that help me strengt
 - Reverse String
 - Palindrome String
 - Count Vowels in a String
+- Character Frequency
 ### Control Statements
 - If-Else Statement
 - Switch Statement
