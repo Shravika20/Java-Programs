@@ -34,6 +34,7 @@ This repository contains Java programs and coding exercises that help me strengt
 - Count Vowels in a String
 - Character Frequency
 - Anagram Checker
+- Password Strength Checker
 ### Control Statements
 - If-Else Statement
 - Switch Statement
