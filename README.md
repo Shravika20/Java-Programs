@@ -28,6 +28,7 @@ This repository contains Java programs and coding exercises that help me strengt
 - Largest Element in Array
 - Reverse Array
 - Matrix Addition
+- Remove Duplicate Elements from an Array
 ### Strings
 - Reverse String
 - Palindrome String
