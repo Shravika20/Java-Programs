@@ -36,6 +36,7 @@ This repository contains Java programs and coding exercises that help me strengt
 - Character Frequency
 - Anagram Checker
 - Password Strength Checker
+- Longest Word in a Sentence
 ### Control Statements
 - If-Else Statement
 - Switch Statement
