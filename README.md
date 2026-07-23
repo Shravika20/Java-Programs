@@ -34,6 +34,7 @@ This repository contains Java programs and coding exercises that help me strengt
 - Merge Two Arrays
 - Move All Zeros to the End
 - Leaders in an Array
+- Find Missing Number in an Array
 ### Strings
 - Reverse String
 - Palindrome String
