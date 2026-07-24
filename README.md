@@ -35,6 +35,7 @@ This repository contains Java programs and coding exercises that help me strengt
 - Move All Zeros to the End
 - Leaders in an Array
 - Find Missing Number in an Array
+- Find Second Smallest Element
 ### Strings
 - Reverse String
 - Palindrome String
