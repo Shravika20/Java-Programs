@@ -37,6 +37,7 @@ This repository contains Java programs and coding exercises that help me strengt
 - Find Missing Number in an Array
 - Find Second Smallest Element
 - Find Duplicate Elements in an Array
+- Find Intersection of Two Arrays
 ### Strings
 - Reverse String
 - Palindrome String
