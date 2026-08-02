@@ -47,6 +47,7 @@ This repository contains Java programs and coding exercises that help me strengt
 - Password Strength Checker
 - Longest Word in a Sentence
 - String Compression
+- Reverse Words in a Sentence
 ### Control Statements
 - If-Else Statement
 - Switch Statement
