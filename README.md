@@ -38,6 +38,7 @@ This repository contains Java programs and coding exercises that help me strengt
 - Find Second Smallest Element
 - Find Duplicate Elements in an Array
 - Find Intersection of Two Arrays
+- Count Positive, Negative and Zero Elements
 ### Strings
 - Reverse String
 - Palindrome String
